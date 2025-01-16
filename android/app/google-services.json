@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57000538605",
+    "project_id": "chatapptuto-fce3b",
+    "storage_bucket": "chatapptuto-fce3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57000538605:android:4bfdffd6353c5909cb37e4",
+        "android_client_info": {
+          "package_name": "chatapptuto.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAYhdbD9T-HxyFIQO1s--TWWghFO9keCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

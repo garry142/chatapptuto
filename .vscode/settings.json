@@ -1,0 +1,17 @@
+{
+    "cmake.sourceDirectory": "/Users/joseanelewis/chatapptuto/linux",
+    "cmake.allowCommentsInPresetsFile": true,
+    "cmake.allowUnsupportedPresetsVersions": true,
+    "cmake.buildTask": true,
+    "scss.completion.completePropertyWithSemicolon": false,
+    "less.validate": false,
+    "less.hover.references": false,
+    "less.hover.documentation": false,
+    "less.format.preserveNewLines": false,
+    "less.format.newlineBetweenSelectors": false,
+    "less.format.newlineBetweenRules": false,
+    "less.format.enable": false,
+    "less.completion.triggerPropertyValueCompletion": false,
+    "less.completion.completePropertyWithSemicolon": false,
+    "css.validate": false
+}
