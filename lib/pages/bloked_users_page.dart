@@ -48,12 +48,12 @@ class BlokedUsersPage extends StatelessWidget {
   Widget build(BuildContext context) {
     //get currentu users string
     String userId = authService.getCurrentUser()!.uid;
-    log("${userId}");
+    log("$userId");
     // UI
     return Scaffold(
       appBar: AppBar(
         title: Text("BLOKED USERS"),
-        actions: [],
+        actions: const [],
       ),
       body: StreamBuilder<List<Map<String, dynamic>>>(
           stream: chatServices.getBlokedUsersStream(userId),
